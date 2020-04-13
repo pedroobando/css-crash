@@ -1,24 +1,13 @@
 # css-crash
 
-## Project setup
 ```
-npm install
+De la mano de  Traversy Media, es un vistaso de lo que se puede lograr con este framework de css
 ```
-
-### Compiles and hot-reloads for development
+## Direccion de Youtube
 ```
-npm run serve
+https://www.youtube.com/watch?v=UBOj6rqRUME
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
